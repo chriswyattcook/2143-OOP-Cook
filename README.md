@@ -2,5 +2,5 @@
 
 ![](https://lh3.googleusercontent.com/QQzCHm1EgX1DmTWz0MJtfsCe-OoGda_UMKspDBFTekOgcpY2mX1p5FXAqZdgc6Y2T49n93UZ=w147-h243-p-no)
 
-Christopher Cook
+Chris W Cook
 c.w.cook@live.com
