@@ -118,7 +118,7 @@ class ShiftCipher(object):
 """
 Only run this if we call this file directly:
 """
-#if __name__=='__main__':
+if __name__=='__main__':
 
 alice = ShiftCipher()
 alice.promptUserMessage()
