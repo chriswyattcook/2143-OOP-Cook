@@ -1,9 +1,8 @@
-"""
+
 Name: Chris Cook
 Email: c.w.cook@live.com
 Assignment: Homework 3 - OOP Repeat
 Due: 17 Oct @ 1:00 p.m.
-"""
 
 ### Questions
 
