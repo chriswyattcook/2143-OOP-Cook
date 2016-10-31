@@ -1,5 +1,8 @@
 """
-
+Name: Chris Cook
+Email: c.w.cook@live.com
+Assignment: Pig Game Part 2
+Due: 131 Oct @ 1:00 p.m.
 """
 
 import random
