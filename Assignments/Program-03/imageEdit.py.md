@@ -1,7 +1,7 @@
-Name: Chris Cook
-Email: c.w.cook@live.com
-Assignment: Program-03 - ImageEdit
-Due: Friday Dec. 9, 2016 @ 5:00pm
+###Name: Chris Cook
+###Email: c.w.cook@live.com
+###Assignment: Program-03 - ImageEdit
+###Due: Friday Dec. 9, 2016 @ 5:00pm
 
 
     import sys
