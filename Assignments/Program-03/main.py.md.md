@@ -1,8 +1,8 @@
-Name: Chris Cook
-Email: c.w.cook@live.com
-Assignment: Program-03 - ImageEdit
-Due: Friday Dec. 9, 2016 @ 5:00pm
-Purpose: Prompts the user for an image filename, the action desired to be performed on the image, and the output name. 
+###Name: Chris Cook
+###Email: c.w.cook@live.com
+###Assignment: Program-03 - ImageEdit
+###Due: Friday Dec. 9, 2016 @ 5:00pm
+###Purpose: Prompts the user for an image filename, the action desired to be performed on the image, and the output name. 
 The program will blur, glass-ify, flip, posterize, solarize, or Warhol-ilize the image, and then save the image
 
 
